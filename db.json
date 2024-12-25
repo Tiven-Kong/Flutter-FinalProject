@@ -1,0 +1,79 @@
+{
+  "post": [
+    {
+      "id": "8b97",
+      "title": "Puple",
+      "price": "22$",
+      "book_url": "https://www.weteka.org/_next/image?url=https%3A%2F%2Fapi.weteka.org%2Fpublic%2Fbooks%2F663b0a26e8684bc1558dcc98%2F0001.png&w=1920&q=75"
+    },
+    {
+      "id": "e103",
+      "title": "Rich Dad Poor Dad",
+      "price": "50$",
+      "book_url": "https://gregory.ph/cdn/shop/products/BuyRichDadPoorDadinPhilippines-3_949c6c8a-0fb9-4c99-80d6-920b36dac648.jpg?v=1626535585"
+    },
+    {
+      "id": "ea98",
+      "title": "7 Habits",
+      "price": "44$",
+      "book_url": "https://wardahbooks.com/cdn/shop/products/DSC_4542_1024x1024.jpg?v=1695289941"
+    },
+    {
+      "id": "66a2",
+      "title": "MIRACLE Morning",
+      "price": "30$",
+      "book_url": "https://miraclemorning.com/wp-content/uploads/2023/10/Untitled-2-1024x1024.png"
+    },
+    {
+      "id": "2b6f",
+      "title": "Tomorrow Good day ",
+      "price": "12$",
+      "book_url": "https://www.weteka.org/_next/image?url=https%3A%2F%2Fapi.weteka.org%2Fpublic%2Fbooks%2F662f14523604bd5053dd9c27%2F0001.png&w=1920&q=75"
+    },
+    {
+      "id": "ba02",
+      "title": "Cartoon",
+      "price": "43$",
+      "book_url": "https://down-my.img.susercontent.com/file/th-11134207-7rasf-m13vqjbrh9j5af"
+    },
+    {
+      "id": "805f",
+      "title": "Atomic Habits",
+      "price": "65$",
+      "book_url": "https://s9.kh1.co/__image/w=600,h=600,fit=cover/2d/2d53e5b3c81d0a3f6e64297c6d2ebf7eb2d34cdd.jpg"
+    },
+    {
+      "id": "a7b1",
+      "title": "Life",
+      "price": "10$",
+      "book_url": "https://jamesclear.com/wp-content/uploads/2022/09/9M-atomic-habits-dots.png"
+    },
+    {
+      "id": "a7b1",
+      "title": "Life",
+      "price": "10$",
+      "book_url": "https://jamesclear.com/wp-content/uploads/2022/09/9M-atomic-habits-dots.png"
+    },
+    {
+      "id": "a7b1",
+      "title": "Life",
+      "price": "10$",
+      "book_url": "https://jamesclear.com/wp-content/uploads/2022/09/9M-atomic-habits-dots.png"
+    },
+    {
+      "id": "a7b1",
+      "title": "Life",
+      "price": "10$",
+      "book_url": "https://jamesclear.com/wp-content/uploads/2022/09/9M-atomic-habits-dots.png"
+    }
+  ],
+  "ProfileDetail": [
+    {
+      "profile_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLA994hpL3PMmq0scCuWOu0LGsjef49dyXVg&s",
+      "name": "Ronaldo",
+      "email": "Ronaldo.doe@exam.com",
+      "phone": "+123456789",
+      "id": "1"
+    }
+  ]
+}
